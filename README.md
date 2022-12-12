@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yatharth-13
 - 👀 I’m interested in Sports like Cricket
-- 🌱 I’m currently learning C++ and Python
+- 🌱 I’m currently learning Flutter & Dart.
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 How to reach me : Email me on Andy.yatharth@gnmail.com
 
